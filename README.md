@@ -20,4 +20,9 @@ adonis migration:run
 
 ### Starting up the Server
 
+
 Run `node server.js` or `adonis serve`
+
+
+
+[![Run on Repl.it](https://repl.it/badge/github/slime34/NodePlanet)](https://repl.it/github/slime34/NodePlanet)
